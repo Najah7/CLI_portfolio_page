@@ -1,1 +1,3 @@
-# CLI_portfolio_page
+# CLIのポートフォリオ展示レポジトリ
+
+
